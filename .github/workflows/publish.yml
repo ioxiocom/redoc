@@ -36,6 +36,7 @@ jobs:
         with:
           node-version: '14.x'
           registry-url: 'https://registry.npmjs.org'
+          scope: '@ioxio'
       - uses: actions/checkout@v3
       - name: Download bundled artifacts
         uses: actions/download-artifact@v3
