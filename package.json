@@ -1,6 +1,6 @@
 {
-  "name": "@ioxiocom/redoc",
-  "version": "1.0.0",
+  "name": "@ioxio/redoc",
+  "version": "1.0.1",
   "description": "ReDoc",
   "repository": {
     "type": "git",
