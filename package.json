@@ -1,5 +1,5 @@
 {
-  "name": "@ioxio/redoc",
+  "name": "@ioxiocom/redoc",
   "version": "1.0.0",
   "description": "ReDoc",
   "repository": {
@@ -15,6 +15,10 @@
   },
   "author": "Roman Hotsiy <gotsijroman@gmail.com>",
   "license": "MIT",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
   "keywords": [
     "OpenAPI",
     "OpenAPI Specification",
